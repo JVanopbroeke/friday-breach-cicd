@@ -1,3 +1,4 @@
+/* global test, expect */
 // app.test.js — Les tests automatiques
 
 const { additionner, direBonjour } = require('./app');
