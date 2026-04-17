@@ -1,4 +1,4 @@
-function additionner(a, b) { return a + b; }
+function additionner(a, b) { return a - b; }
 
 function direBonjour(nom) {
     if (!nom) throw new Error("Un nom est requis !");
